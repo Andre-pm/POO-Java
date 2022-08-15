@@ -10,11 +10,11 @@ public class PrimeiroProgramaJava {
 		List<String> lista = new ArrayList<>();
 		lista.add("Bruna");
 		lista.add("Luana");
-		lista.add("André");
+		lista.add("AndrÃ©");
 		
 		System.out.println("Tamanho da lista: " + lista.size());
-		System.out.println("Lista está vázia: " + lista.isEmpty());
-		System.out.println("Conteúdo da lista: " + lista.toString());
+		System.out.println("Lista estÃ¡ vÃ¡zia: " + lista.isEmpty());
+		System.out.println("ConteÃºdo da lista: " + lista.toString());
 		
 //		Forma indo por item:
 		for(String item : lista ) {
